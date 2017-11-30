@@ -1,0 +1,14 @@
+x=10
+y=12
+y+=x
+print(y)
+y*=x
+print(y)
+y/=x
+print(y)
+y%=x
+print(y)
+y**=x
+print(y)
+y//=x
+print(y)

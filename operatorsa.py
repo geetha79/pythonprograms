@@ -1,0 +1,8 @@
+print("addition 2+4=" ,2+4)
+print("addition 444+9999=",444+9999)
+print("substraction 30-99=",30-99)
+print("multiplication 2*9=",2*9)
+print("division 5/2=",5/2)
+print("modulo=-2%-5",-2%5)
+print("exponential=2**16",2**16)
+print("floor division 5//2=",5//2)
