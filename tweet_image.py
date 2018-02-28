@@ -1,10 +1,10 @@
 import os 
 import time
 import tweepy
-consumer_key = 'u5OUscNEumo1MFM6ydaYOZxad'
-consumer_secret = 'FB4WOShOKw4PueBUumSjOmKO5vHWeRIHNnKoi6Dqjp5f6WaGP4'
-access_token = '966157062332932096-FFEVOD5PqBr8JQRPo9VtpfXeE7PJGlR'
-access_token_secret = 'Kxf0CSimk54r23jGtPamnRG50XPar3iZH3eykQOaMO29f'
+consumer_key = 'xxxxxx'
+consumer_secret = 'xxxxxx'
+access_token = 'xxxxxx'
+access_token_secret = 'xxxxx'
 
 # these are the key and access secret codes for sending the tweet
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
